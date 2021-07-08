@@ -10,6 +10,7 @@
 - [Examples](#examples)
 - [Comparisons](#comparisons)
 - [Documentation](#documentation)
+- [Blog posts](#blog-posts)
 - [Videos](#videos)
 
 ## Backing
@@ -46,6 +47,10 @@
 - [tauri Roadmap](https://tauri.studio/en/#roadmap)
 - [tauri-action](https://github.com/tauri-apps/tauri-action) - Build your Web application as a Tauri binary for MacOS, Linux and Windows.
 - [tauri-vscode](https://github.com/tauri-apps/tauri-vscode) - Visual Studio Code Extension for Tauri apps development.
+
+## Blog posts
+
+- [Setting Up CI/CD for Tauri (with GitHub Actions)](https://www.jacobbolda.com/setting-up-ci-and-cd-for-tauri)
 
 ## Videos
 
