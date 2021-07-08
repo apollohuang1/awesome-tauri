@@ -50,6 +50,7 @@
 
 ## Blog posts
 
+- [Announcing Tauri Beta - More efficient crossplatform apps with better features](https://dev.to/tauri/announcing-tauri-beta-more-efficient-crossplatform-apps-with-better-features-1nbd) (2021-05-12)
 - [Setting Up CI/CD for Tauri (with GitHub Actions)](https://www.jacobbolda.com/setting-up-ci-and-cd-for-tauri)
 
 ## Videos
