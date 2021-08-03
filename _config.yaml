@@ -3,4 +3,4 @@ logo: /tauri_with_wordmark.svg
 description: Like Electron, just way better.
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
