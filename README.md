@@ -10,6 +10,7 @@
 - [Examples](#examples)
 - [Comparisons](#comparisons)
 - [Documentation](#documentation)
+- [Sources](#sources)
 - [Blog posts](#blog-posts)
 - [Videos](#videos)
 
