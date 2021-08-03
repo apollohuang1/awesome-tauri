@@ -11,6 +11,7 @@
 - [Comparisons](#comparisons)
 - [Documentation](#documentation)
 - [Sources](#sources)
+- [Plugins](#plugins)
 - [Blog posts](#blog-posts)
 - [Videos](#videos)
 
@@ -48,6 +49,11 @@
 - [tauri Roadmap](https://tauri.studio/en/#roadmap)
 - [tauri-action](https://github.com/tauri-apps/tauri-action) - Build your Web application as a Tauri binary for MacOS, Linux and Windows.
 - [tauri-vscode](https://github.com/tauri-apps/tauri-vscode) - Visual Studio Code Extension for Tauri apps development.
+
+## Plugins
+
+- [Tauri Plugin Authenticator](https://github.com/tauri-apps/tauri-plugin-authenticator)
+- [Tauri Plugin Stronghold](https://github.com/tauri-apps/tauri-plugin-stronghold)
 
 ## Blog posts
 
